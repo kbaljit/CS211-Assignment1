@@ -22,7 +22,7 @@
         is not prime and “error” if no input is given. You can assume the input will be
         a proper integer (> 0). Thus, it will not contain any ‘.’ or letters.
         
-        Third: Linked list
+	Third: Linked list
         Implement a linked list that maintains a list integers in sorted order. Thus, if
         the list initially contains 2, 5 and 8, and we insert 1, 3, and 10, then 1 will be
         inserted at the start of the list, 3 will be inserted between 2 and 5, and 10 will
@@ -42,7 +42,7 @@
         not exist or it contains lines with improper structure. Your program should
         print a blank line if the input file is empty or the resulting linked list has no
         nodes.
-        
+       	
 	Fourth: Hash table
         Implement a hash table for integers. You can assume the hash table will store
         at most 1000 numbers. An important part of a hash table is collision resolution.
@@ -63,7 +63,7 @@
         outcome of the search. Your program should print “error” (and nothing else) if
         the file does not exist. The program should print “error” for input lines with
         improper structure.
-        
+	
 	Fifth: Matrix addition
         The fifth part requires you to add 2 matrices. The matrices must have the same
         dimensions (number of rows and columns) for addition to be valid. The output
