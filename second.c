@@ -1,4 +1,5 @@
-//Author: Baljit Kaur#include "second.h"
+//Author: Baljit Kaur
+#include "second.h"
 
 int main(int argc, char *argv[]) {
 	int n;
