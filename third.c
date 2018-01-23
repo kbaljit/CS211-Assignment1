@@ -1,3 +1,4 @@
+//Author: Baljit Kaur
 #include "third.h"
 
 int main(int argc, char *argv[]) {
