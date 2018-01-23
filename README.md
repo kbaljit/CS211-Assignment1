@@ -1,10 +1,10 @@
 # CS211-Assignment1
 Introduction
-This assignment is designed to give you some initial experience with programming
+  This assignment is designed to give you some initial experience with programming
 in C, as well as compiling, linking, running, and debugging. Your task is
 to write 5 small C programs. Each of them will test a portion of your knowledge
 about C programming. They are discussed below.
-First: Decision making
+  First: Decision making
 Write a program to check whether an integer is odd or even.
 Input and output format: This program takes an integer argument from
 the command line. It prints “odd” if the number is odd, “even” if the number
@@ -12,14 +12,14 @@ is even, and “error” if no input is given. You can assume the input will be 
 proper integer (> 0). Thus, it will not contain any ‘.’ or letters. The output
 should to be in lowercase, finish with a newline character (“\n”) and contain no
 space.
-Second: Looping
+  Second: Looping
 Write a program that checks whether a number is a prime number (2, 3, 5, 7,
 11, . . . ) or composite.
 Input and output format: This program takes an integer argument from
 the command line. It prints “yes” if the number is prime, “no” if the number
 is not prime and “error” if no input is given. You can assume the input will be
 a proper integer (> 0). Thus, it will not contain any ‘.’ or letters.
-Third: Linked list
+  Third: Linked list
 Implement a linked list that maintains a list integers in sorted order. Thus, if
 the list initially contains 2, 5 and 8, and we insert 1, 3, and 10, then 1 will be
 inserted at the start of the list, 3 will be inserted between 2 and 5, and 10 will
@@ -39,7 +39,7 @@ output. Your program should print “error” (and nothing else) if the file doe
 not exist or it contains lines with improper structure. Your program should
 print a blank line if the input file is empty or the resulting linked list has no
 nodes.
-Fourth: Hash table
+	Fourth: Hash table
 Implement a hash table for integers. You can assume the hash table will store
 at most 1000 numbers. An important part of a hash table is collision resolution.
 In this assignment, we want you to use linear probing – if there is a collision
@@ -59,7 +59,7 @@ For a search, the program should print “present” or “absent” based on th
 outcome of the search. Your program should print “error” (and nothing else) if
 the file does not exist. The program should print “error” for input lines with
 improper structure.
-Fifth: Matrix addition
+	Fifth: Matrix addition
 The fifth part requires you to add 2 matrices. The matrices must have the same
 dimensions (number of rows and columns) for addition to be valid. The output
 will be of the same dimension as well.
