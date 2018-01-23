@@ -13,6 +13,7 @@
         proper integer (> 0). Thus, it will not contain any ‘.’ or letters. The output
         should to be in lowercase, finish with a newline character (“\n”) and contain no
         space.
+	
         Second: Looping
         Write a program that checks whether a number is a prime number (2, 3, 5, 7,
         11, . . . ) or composite.
